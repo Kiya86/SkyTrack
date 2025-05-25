@@ -1,9 +1,7 @@
----
 title: "SkyTrack"
 author: "Kiya Kesheh"
 description: "100 mph FPV drone!
 created_at: "2025-05-21"
----
 
 ## **Day 1** (05/21/2025)
 
