@@ -1,4 +1,11 @@
-## **Day 1**
+---
+title: "SkyTrack"
+author: "Kiya Kesheh"
+description: "100 mph FPV drone!
+created_at: "2025-05-21"
+---
+
+## **Day 1** (05/21/2025)
 
 * Did research on what components are best  
   * Compared thrust, KV, and RMP curves for multiple 5-inch prop motors   
@@ -19,7 +26,7 @@
     *   
 * Lastly made a BOM of all parts to see how much it would cost, and the exact price with tax and shipping is **$304.20**
 
-## **Day 2**
+## **Day 2** (05/22/2025)
 
 * Made a sketch of a frame to work with the 5-inch props and made sure the center of gravity would not be messed up   
 * Drew the sketch in Fusion 360 and made a 240mm diameter motor-to-motor spacing  
@@ -29,11 +36,11 @@
 * Did not add mounting holes, as I will be using a soldering iron with brass inserts   
 * Beefed up sections under high loads
 
-## **Day 3**
+## **Day 3** (05/23/2025)
 
 * Fixed some geometry of the drone and reduced weight  
 * Added more channels for battery wires  
-* Started to make the GitHub repository   
+* Started to make the GitHub repository (This was done a little later the day after (I might or might not have feel asleep))
 * Added all parts to an Excel sheet and saw how much tax and shipping fees were on Aliexpress  
 * Added everything to the BOM and finalized last-minute changes  
 * 3D printed the frame with carbon reinforced filament (Nozzle is cooked)   
