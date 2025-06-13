@@ -36,6 +36,13 @@ created_at: "2025-05-21"
 * Did not add mounting holes, as I will be using a soldering iron with brass inserts   
 * Beefed up sections under high loads
 
+* ![image](https://github.com/user-attachments/assets/9bc51c23-1af5-42eb-b568-c7345a81819a)
+* ![image](https://github.com/user-attachments/assets/074c4626-bea5-4acc-bdd5-1d77370d2fbb)
+* ![image](https://github.com/user-attachments/assets/c9e3b09f-4187-4bdd-8f11-810cbb9fbe60)
+* ![image](https://github.com/user-attachments/assets/891914b7-18f3-4ff4-90c4-00a1278494c9)
+* ![image](https://github.com/user-attachments/assets/6cc9bc8f-36d0-4af7-9919-9110dc38ac12)
+* ![image](https://github.com/user-attachments/assets/d5fb5759-7005-47ce-ad2a-4fc3f68a7085)
+
 ## **Day 3** (05/23/2025)
 
 * Fixed some geometry of the drone and reduced weight  
