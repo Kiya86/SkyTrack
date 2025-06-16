@@ -16,10 +16,12 @@ BOM:
 | Motors                   | [Axisflying Bando 2207.5, 1960 KV, 6 S  ](https://www.aliexpress.us/item/3256806145330407.html?spm=a2g0o.productlist.main.4.501f20c733vHOQ&algo_pvid=b10bf2b5-d16d-4acb-bc7a-43906a65d638&algo_exp_id=b10bf2b5-d16d-4acb-bc7a-43906a65d638-3&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%21112.05%2189.64%21%21%21112.05%2189.64%21%402101c59117501049199567453ef878%2112000036788550396%21sea%21US%216374919476%21ABX&curPageLogUid=p2T0v9pEKlOY&utparam-url=scene%3Asearch%7Cquery_from%3A)       | Freaking RC Store (Trader)       |  4  | $85.66          | $1.83     | $87.49    |
 
 Summary (Provided on AliExpress)
-- Parts Total: $216.66  
-- Shipping Total: $66.43  
-- Other Fees: $21.11  
-- Total: $304.20
+- Parts Total: $272.34  
+- Shipping Total: $11.78 
+- Additional charges: $26.19  
+- Total: $306.44
+
+![image](https://github.com/user-attachments/assets/ec808505-dbae-4567-a8c4-ab43978aa4b0)
 
 ![FullDroneChassis](https://github.com/user-attachments/assets/a5cf9442-6194-4b69-ab83-8ceac8dc300c)
 ![image](https://github.com/user-attachments/assets/b154f187-b209-493b-88ba-eba3c47a2823)
