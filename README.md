@@ -21,7 +21,6 @@ Summary (Provided on AliExpress)
 - Additional charges: $26.19  
 - Total: $306.44
 
-![image](https://github.com/user-attachments/assets/ec808505-dbae-4567-a8c4-ab43978aa4b0)
-
+![image](https://github.com/user-attachments/assets/e81f06e9-ac1c-403d-bca3-fa99e2521012)
 ![FullDroneChassis](https://github.com/user-attachments/assets/a5cf9442-6194-4b69-ab83-8ceac8dc300c)
 ![image](https://github.com/user-attachments/assets/b154f187-b209-493b-88ba-eba3c47a2823)
